@@ -1,2 +1,3 @@
 # HelloWorld
-training basic operations with GitHub
+This repo contains only sample Java app.
+It was used to train basic operations with GitHub using my IDE.
